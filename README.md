@@ -17,3 +17,6 @@ Steps for establishing this repository
     This should have MULakeNumber, waterBody, alternate waterbody names, samplingSite, Lat/Long
   Have separate file from Lorena's that includes dam location and waterbody land use 
     Need NA rows for sites without data
+    
+Use other git repo to do all the merging. This repo should have two files. samplingSite metadata and waterBody metadata
+  They can then be manually updated
