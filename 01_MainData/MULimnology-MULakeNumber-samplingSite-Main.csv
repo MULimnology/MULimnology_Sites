@@ -1,17 +1,17 @@
 MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude_samplingSite,Longitude_samplingSite,Notes
 001,Glover,Glover,NA,Glover 1,38.85,-91.89,NA
 002,Pinnacle,Pinnacle,NA,Pinnacle 1,38.83,-91.42,NA
-003,Bowling_Green_East,Bowling Green (East),NA,Bowling Green (East) 1,39.341433988710605,-91.15299250599534,NA
+003,Bowling_Green_East,Bowling Green (East),NA,Bowling Green (East) 1,39.341433988710605,-91.15299251,NA
 004,Bowling_Green_West,Bowling Green (West),NA,Bowling Green (West) 1,39.34,-91.16,NA
-005,Lincoln,Lincoln,NA,Lincoln 1,39.021113055281894,-90.91999986900936,NA
+005,Lincoln,Lincoln,NA,Lincoln 1,39.021113055281894,-90.91999987,NA
 006,St_Louis,St. Louis,NA,St. Louis 1,38.8,-90.77,NA
 006,St_Louis,St. Louis,NA,St. Louis 2,38.79,-90.8,NA
 007,Kraut_Run,Kraut Run,NA,Kraut Run 1,38.74,-90.76,NA
 009,Creve_Coeur,Creve Coeur,NA,Creve Coeur 1,38.72,-90.49,NA
 009,Creve_Coeur,Creve Coeur,NA,Creve Coeur 2,38.71,-90.48,NA
 010,Northwoods,Northwoods,NA,Northwoods 1,38.43,-91.48,NA
-011,Peaceful_Valley,Peaceful Valley,NA,Peaceful Valley 1,38.35864017473919,-91.53879742268686,NA
-012,Ben_Branch,Ben Branch,NA,Ben Branch 1,38.5679854508257,-91.79074674608307,NA
+011,Peaceful_Valley,Peaceful Valley,NA,Peaceful Valley 1,38.35864017473919,-91.53879742,NA
+012,Ben_Branch,Ben Branch,NA,Ben Branch 1,38.56798545,-91.79074675,NA
 013,Binder,Binder,NA,Binder 1,38.6,-92.3,NA
 013,Binder,Binder,NA,Binder 1.5,38.6,-92.3,NA
 014,Tishomingo,Tishomingo,NA,Tishomingo 1,38.32,-90.6,NA
@@ -20,13 +20,13 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 015,Wauwanoka,Wauwanoka,NA,Wauwanoka 2,38.23,-90.54,NA
 016,Timberline,Timberline,NA,Timberline 1,37.99,-90.54,NA
 017,Carmel,Carmel,NA,Carmel 1,37.93,-90.64,NA
-018,Capri,Capri,NA,Capri 1,37.89870785289234,-90.61502275538014,NA
-019,Marseilles,Marseilles,NA,Marseilles 1,37.89568602111851,-90.6217962336892,NA
+018,Capri,Capri,NA,Capri 1,37.89870785289234,-90.61502276,NA
+019,Marseilles,Marseilles,NA,Marseilles 1,37.89568602111851,-90.62179623,NA
 020,Monsanto,Monsanto,NA,Monsanto 1,37.81,-90.5,NA
-021,Goose_Creek,Goose Creek,NA,Goose Creek 1,37.98186194949524,-90.3230783680658,NA
+021,Goose_Creek,Goose Creek,NA,Goose Creek 1,37.98186194949524,-90.32307837,NA
 022,Ann,Ann,NA,Ann 1,37.95,-90.21,NA
 023,Wanda_Lee,Wanda Lee,NA,Wanda Lee 1,37.94,-90.23,NA
-024,Fredricktown_City,Fredricktown City,NA,Fredricktown City 1,37.57701101983076,-90.30864519370608,NA
+024,Fredricktown_City,Fredricktown City,NA,Fredricktown City 1,37.57701101983076,-90.30864519,NA
 025,Perry_County,Perry County,NA,Perry County 1,37.72,-89.91,NA
 026,Bella_Vista,Bella Vista,NA,Bella Vista 1,37.47,-89.58,NA
 027,Boutin,Boutin,NA,Boutin 1,37.45,-89.49,NA
@@ -38,26 +38,26 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 030,Wappapello,Wappapello,NA,Wappapello 2,36.99,-90.34,NA
 030,Wappapello,Wappapello,NA,Wappapello 3,37.19,-90.5,NA
 031,Beaver,Beaver,NA,Beaver 1,36.8,-90.62,NA
-032,Ripley,Ripley,NA,Ripley 1,36.65865248370248,-90.95477765984931,NA
-033,Fourche_Creek,Fourche Creek,NA,Fourche Creek 1,36.636470618205536,-91.05273980630596,NA
+032,Ripley,Ripley,NA,Ripley 1,36.65865248370248,-90.95477766,NA
+033,Fourche_Creek,Fourche Creek,NA,Fourche Creek 1,36.636470618205536,-91.05273981,NA
 034,McCormack,McCormack,NA,McCormack 1,36.82,-91.35,NA
 035,Miller_Community,Miller Community,NA,Miller Community 1,37.05,-90.9,NA
 036,Clearwater,Clearwater,NA,Clearwater 1,37.14,-90.77,NA
 036,Clearwater,Clearwater,NA,Clearwater 2,37.15,-90.81,NA
 036,Clearwater,Clearwater,NA,Clearwater 3,37.17,-90.81,NA
 036,Clearwater,Clearwater,NA,Clearwater 4,37.18,-90.79,NA
-037,Lower_Taum_Sauk,Lower Taum Sauk,NA,Lower Taum Sauk 1,37.49799680365297,-90.83453636986302,NA
-038,Killarney,Killarney,NA,Killarney 1,37.591445403225805,-90.5648816935484,NA
-039,Council_Bluff,Council Bluff,NA,Council Bluff 1,37.729194299434006,-90.91182254609596,NA
-040,Sunnen,Sunnen,NA,Sunnen 1,37.95141819286542,-90.92709844016022,NA
+037,Lower_Taum_Sauk,Lower Taum Sauk,NA,Lower Taum Sauk 1,37.49799680365297,-90.83453637,NA
+038,Killarney,Killarney,NA,Killarney 1,37.591445403225805,-90.56488169,NA
+039,Council_Bluff,Council Bluff,NA,Council Bluff 1,37.729194299434006,-90.91182255,NA
+040,Sunnen,Sunnen,NA,Sunnen 1,37.95141819286542,-90.92709844,NA
 041,Rocky_Fork,Rocky Fork,NA,Rocky Fork 1,39.08,-92.31,NA
 042,TriCity_Community,Tri-City Community,NA,Tri-City Community 1,39.19,-92.21,NA
 042,TriCity_Community,Tri-City Community,NA,Tri-City Community 2,39.19,-92.21,NA
 042,TriCity_Community,Tri-City Community,NA,Tri-City Community 3,39.19,-92.21,NA
-043,DC_Rogers,D.C. Rogers,NA,D.C. Rogers 1,39.15576832400977,-92.71001442515433,NA
-044,Peters,Peters,Fayette,Peters 1,39.165475708721246,-92.73082432048652,NA
-045,Nehai_Tonkayea,Nehai Tonkayea,NA,Nehai Tonkayea 1,39.59108844534883,-92.89048951100492,NA
-046,Thomas_Hill,Thomas Hill,NA,Thomas Hill 1,39.56845112798956,-92.63977055117437,NA
+043,DC_Rogers,D.C. Rogers,NA,D.C. Rogers 1,39.15576832400977,-92.71001443,NA
+044,Peters,Peters,Fayette,Peters 1,39.165475708721246,-92.73082432,NA
+045,Nehai_Tonkayea,Nehai Tonkayea,NA,Nehai Tonkayea 1,39.59108844534883,-92.89048951,NA
+046,Thomas_Hill,Thomas Hill,NA,Thomas Hill 1,39.56845112798956,-92.63977055,NA
 047,Sugar_Creek,Sugar Creek,NA,Sugar Creek 1,39.47,-92.48,NA
 047,Sugar_Creek,Sugar Creek,NA,Sugar Creek 2,39.48,-92.46,NA
 047,Sugar_Creek,Sugar Creek,NA,Sugar Creek 3,39.49,-92.47,NA
@@ -65,22 +65,22 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 048,Long_Branch,Long Branch,NA,Long Branch 1,39.75,-92.51,NA
 048,Long_Branch,Long Branch,NA,Long Branch 2,39.84,-92.52,NA
 048,Long_Branch,Long Branch,NA,Long Branch 3,39.82,-92.5,NA
-049,Macon,Macon,NA,Macon 1,39.74873679443852,-92.49418618024173,NA
-050,Spring,Spring,NA,Spring 1,40.10055944337695,-92.67807766642726,NA
+049,Macon,Macon,NA,Macon 1,39.74873679443852,-92.49418618,NA
+050,Spring,Spring,NA,Spring 1,40.10055944337695,-92.67807767,NA
 051,Mahoney,Mahoney,NA,Mahoney 1,40.5,-93.02,NA
 051,Mahoney,Mahoney,NA,Mahoney 2,40.5,-93.02,NA
 051,Mahoney,Mahoney,NA,Mahoney 3,40.5,-93.02,NA
 051,Mahoney,Mahoney,NA,Mahoney A1,40.49,-93.03,NA
 051,Mahoney,Mahoney,NA,Mahoney A2,40.49,-93.02,NA
 052,Thunderhead,Thunderhead,NA,Thunderhead 1,40.53,-93.02,NA
-053,Memphis_City,Memphis City,NA,Memphis City 1,40.448521991726366,-92.20146034583398,NA
+053,Memphis_City,Memphis City,NA,Memphis City 1,40.448521991726366,-92.20146035,NA
 054,Ella_Ewing,Ella Ewing,NA,Ella Ewing 1,40.34,-92.01,NA
 055,Baring_Country_Club,Baring Country Club,NA,Baring Country Club 1,40.23,-92.2,NA
 056,Edina_City,Edina City,NA,Edina City 1,40.19,-92.18,NA
-057,Deer_Ridge,Deer Ridge,NA,Deer Ridge 1,40.18056387177271,-91.82820588866602,NA
+057,Deer_Ridge,Deer Ridge,NA,Deer Ridge 1,40.18056387177271,-91.82820589,NA
 058,Wakonda,Wakonda,NA,Wakonda 1,40.01,-91.5,NA
 059,Shelbina,Shelbina,NA,Shelbina 1,39.73,-92.04,NA
-060,Monroe_City,Monroe City,NA,Monroe City 1,39.62066057635329,-91.73326835447445,NA
+060,Monroe_City,Monroe City,NA,Monroe City 1,39.62066057635329,-91.73326835,NA
 061,Vandalia_Community,Vandalia Community,NA,Vandalia Community 1,39.24,-91.54,NA
 062,Tebo,Tebo,NA,Tebo 1,38.61,-93.29,NA
 063,Spring_Fork,Spring Fork,NA,Spring Fork 1,38.57,-93.24,NA
@@ -102,7 +102,7 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 068,Longview,Longview,NA,Longview 2,38.91,-94.47,NA
 068,Longview,Longview,NA,Longview 3,38.89,-94.49,NA
 069,Harrisonville,Harrisonville,NA,Harrisonville 1,38.77,-94.33,NA
-070,North,North,NA,North 1,38.68705635018153,-94.3585117397691,NA
+070,North,North,NA,North 1,38.68705635018153,-94.35851174,NA
 071,Waukomis,Waukomis,NA,Waukomis 1,39.23,-94.63,NA
 072,Smithville,Smithville,NA,Smithville 1,39.4,-94.55,NA
 072,Smithville,Smithville,NA,Smithville 2,39.42,-94.48,NA
@@ -113,29 +113,29 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 072,Smithville,Smithville,NA,Smithville 5,39.4,-94.51,NA
 072,Smithville,Smithville,NA,Smithville FD,39.4,-94.54,NA
 073,Rocky_Hollow,Rocky Hollow,NA,Rocky Hollow 1,39.36,-94.28,NA
-074,Watkins_Mill,Watkins Mill,NA,Watkins Mill 1,39.39415882380595,-94.26226512354792,NA
+074,Watkins_Mill,Watkins Mill,NA,Watkins Mill 1,39.39415882380595,-94.26226512,NA
 075,Sugar,Sugar,NA,Sugar 1,39.55,-95.05,NA
 076,Contrary_Oxbow,Contrary (Oxbow),NA,Contrary (Oxbow) 1,39.72,-94.91,NA
 077,Allaman,Allaman,NA,Allaman 1,39.66,-94.21,NA
-078,Hamilton_City,Hamilton City,NA,Hamilton City 1,39.74378293154899,-94.03602300300209,NA
+078,Hamilton_City,Hamilton City,NA,Hamilton City 1,39.74378293154899,-94.036023,NA
 079,Breckenridge_City,Breckenridge City,NA,Breckenridge City 1,39.78,-93.81,NA
 080,Viking,Viking,NA,Viking 1,39.94,-94.06,NA
-081,Pony_Express,Pony Express,NA,Pony Express 1,39.80413575078806,-94.3810095509707,NA
+081,Pony_Express,Pony Express,NA,Pony Express 1,39.80413575078806,-94.38100955,NA
 082,Maysville,Maysville,NA,Maysville 1,39.88,-94.38,NA
 083,Bethany_North,Bethany (North),NA,Bethany (North) 1,40.31,-94.03,NA
 084,Paho,Paho,NA,Paho 1,40.4,-93.65,NA
-085,Marie,Marie,NA,Marie 1,40.48721256735268,-93.55312641742832,NA
+085,Marie,Marie,NA,Marie 1,40.48721256735268,-93.55312642,NA
 086,New_Milan,New Milan,NA,New Milan 1,40.2,-93.1,NA
-087,Brookfield,Brookfield,NA,Brookfield 1,39.79616412844299,-93.02737431372788,NA
-088,Marceline_South,Marceline (South),MarcelineSouth,Marceline (South) 1,39.66296746107628,-92.99574013847932,NA
+087,Brookfield,Brookfield,NA,Brookfield 1,39.79616412844299,-93.02737431,NA
+088,Marceline_South,Marceline (South),MarcelineSouth,Marceline (South) 1,39.66296746107628,-92.99574014,NA
 088-01,Marceline_South,Marceline (South),MarcelineSouth,Marceline Water Treatment Plant,NA,NA,NA
 089,Truman,Truman,NA,Truman 1,38.27,-93.41,NA
 089,Truman,Truman,NA,Truman 2,38.3,-93.46,NA
 089,Truman,Truman,NA,Truman 3,38.06,-93.67,NA
 089,Truman,Truman,NA,Truman 4,38.26,-93.64,NA
 089,Truman,Truman,NA,Truman Karrs,38.29,-93.47,NA
-090,Montrose,Montrose,NA,Montrose 1,38.304220334109395,-93.94339301380182,NA
-091,Atkinson,Atkinson,NA,Atkinson 1,38.006438235325064,-94.0478975969845,NA
+090,Montrose,Montrose,NA,Montrose 1,38.304220334109395,-93.94339301,NA
+091,Atkinson,Atkinson,NA,Atkinson 1,38.006438235325064,-94.0478976,NA
 092,Pomme_De_Terre,Pomme De Terre,NA,Pomme de Terre 1,37.9,-93.32,NA
 092,Pomme_De_Terre,Pomme De Terre,NA,Pomme de Terre 2,37.87,-93.37,NA
 092,Pomme_De_Terre,Pomme De Terre,NA,Pomme de Terre 3,37.84,-93.26,NA
@@ -153,16 +153,16 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 094,Lamar_City,Lamar City,NA,Lamar City 2,37.48,-94.25,NA
 094-04-00,Lamar_City,Lamar City,NA,Lamar City 2,37.48,-94.25,NA
 094-DT-05,Lamar_City,Lamar City,NA,Lamar DITCH,37.49,-94.24,NA
-094-EA-05-00,Lamar_City,Lamar City,NA,Lamar UPPER,37.48220560636857,-94.24331957723577,NA
-094-EA-05-02,Lamar_City,Lamar City,NA,Lamar EAST,37.482964251656306,-94.2458692094622,NA
-094-MD-04-00,Lamar_City,Lamar City,NA,Lamar MID,37.482969237542626,-94.25171114330048,NA
-094-NA-05-00,Lamar_City,Lamar City,NA,Lamar NORTH,37.485745180868186,-94.25080721652692,NA
-094-SA-03-00,Lamar_City,Lamar City,NA,Lamar SOUTH,37.47958849218606,-94.2531351740746,NA
+094-EA-05-00,Lamar_City,Lamar City,NA,Lamar UPPER,37.48220560636857,-94.24331958,NA
+094-EA-05-02,Lamar_City,Lamar City,NA,Lamar EAST,37.482964251656306,-94.24586921,NA
+094-MD-04-00,Lamar_City,Lamar City,NA,Lamar MID,37.482969237542626,-94.25171114,NA
+094-NA-05-00,Lamar_City,Lamar City,NA,Lamar NORTH,37.485745180868186,-94.25080722,NA
+094-SA-03-00,Lamar_City,Lamar City,NA,Lamar SOUTH,37.47958849218606,-94.25313517,NA
 094-WL-01-00,Lamar_City,Lamar City,NA,Lamar Well,37.48,-94.26,NA
 094-WL-02-00,Lamar_City,Lamar City,NA,Lamar Near Well,37.48,-94.26,NA
 095,McDaniel,McDaniel,NA,McDaniel 1,37.3,-93.31,NA
 095-01,McDaniel,McDaniel,NA,Springfield Water Treatment Plant,NA,NA,NA
-096,Fellows,Fellows,NA,Fellows 1,37.31395106912392,-93.20902754014642,NA
+096,Fellows,Fellows,NA,Fellows 1,37.31395106912392,-93.20902754,NA
 097,Springfield,Springfield,NA,Springfield 1,37.11,-93.26,NA
 097,Springfield,Springfield,NA,Springfield 2,37.13,-93.23,NA
 098,Table_Rock,Table Rock,NA,Table Rock 1,36.6,-93.32,NA
@@ -211,8 +211,8 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 098,Table_Rock,Table Rock,NA,Table Rock WR2,36.62,-93.34,NA
 098,Table_Rock,Table Rock,NA,Table Rock WR4,36.59,-93.41,NA
 098,Table_Rock,Table Rock,NA,Table Rock WR6,36.62,-93.49,NA
-098-AX,Table_Rock,NA,NA,Auxiliary dam,36.6070736944019,-93.3121469948578,NA
-098-MB-02-00,Table_Rock,Table Rock,NA,NA,36.60895028409091,-93.31403460227271,NA
+098-AX,Table_Rock,NA,NA,Auxiliary dam,36.60707369,-93.31214699,NA
+098-MB-02-00,Table_Rock,Table Rock,NA,NA,36.60895028409091,-93.3140346,NA
 099,Taneycomo,Taneycomo,NA,Taneycomo 1,36.66,-93.13,NA
 099,Taneycomo,Taneycomo,NA,Taneycomo 10,36.6,-93.3,NA
 099,Taneycomo,Taneycomo,NA,Taneycomo 2,36.7,-93.13,NA
@@ -249,41 +249,41 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 107,Ziske,Ziske,NA,Ziske 1,37.65,-91.51,NA
 108,Turner,Turner,NA,Turner 1,37.65,-91.51,NA
 109,Loggers,Loggers,NA,Loggers 1,37.39,-91.26,NA
-110,Little_Prairie,Little Prairie,Towell,Little Prairie 1,37.95675138717223,-91.6494175665248,NA
-111,Indian_Hills,Indian Hills,NA,Indian Hills 1,38.10486453410157,-91.45736103499983,NA
-111-C2-0042,Indian_Hills,NA,NA,Indian_Hills Cove 2,38.10167433102795,-91.45444766450645,NA
-111-C5-0095,Indian_Hills,NA,NA,Indian_Hills Cove 5,38.09350349739409,-91.45705742593697,NA
-111-C8-0182,Indian_Hills,NA,NA,Indian_Hills Cove 8,38.08249110774808,-91.4474178140095,NA
-111-DA-01-00,Indian_Hills,NA,NA,Indian_Hills Dam 1,38.10676914285714,-91.45852114285714,NA
-111-DA-02-00,Indian_Hills,NA,NA,Indian_Hills Dam 2,38.10710944444445,-91.45781944444444,NA
-111-DA-03-00,Indian_Hills,NA,NA,Indian_Hills Dam 3,38.107360625,-91.457109375,NA
-111-DA-04-00,Indian_Hills,NA,NA,Indian_Hills Dam 4,38.10763148148149,-91.4563325925926,NA
-111-DA-05-00,Indian_Hills,NA,NA,Indian_Hills Dam 5,38.10812888888889,-91.45456277777778,NA
-111-DA-06-00,Indian_Hills,NA,NA,Indian_Hills Dam 6,38.106638181818184,-91.45396977272728,NA
-111-DA-07-00,Indian_Hills,NA,NA,Indian_Hills Dam 7,38.106408139534885,-91.45453325581396,NA
-111-DA-08-00,Indian_Hills,NA,NA,Indian_Hills Dam 8,38.10626555555555,-91.45498577777778,NA
-111-DA-09-00,Indian_Hills,NA,NA,Indian_Hills Dam 9,38.10610109090909,-91.45562036363636,NA
-111-DA-10-00,Indian_Hills,NA,NA,Indian_Hills Dam 10,38.106059433962265,-91.45588660377358,NA
-111-DA-11-00,Indian_Hills,NA,NA,Indian_Hills Dam 11,38.10606576923077,-91.45623153846154,NA
-111-DA-12-00,Indian_Hills,NA,NA,Indian_Hills Dam 12,38.10596240740741,-91.4568437037037,NA
-111-DA-13-00,Indian_Hills,NA,NA,Indian_Hills Dam 13,38.10589,-91.45724254545456,NA
-111-DA-14-00,Indian_Hills,NA,NA,Indian_Hills Dam 14,38.1053615942029,-91.45822971014492,NA
-112,Shayne,Shayne,NA,Shayne 1,37.898213708029346,-90.64284348626694,NA
-113,Pape_Concordia,Pape (Concordia),NA,Pape (Concordia) 1,38.934661350534576,-93.58243926345702,NA
-114,Henry_Sever,Henry Sever,NA,Henry Sever 1,40.00648696612723,-91.94467475199892,NA
-115,Hunnewell,Hunnewell,NA,Hunnewell 1,39.70830567043918,-91.86237338203377,NA
+110,Little_Prairie,Little Prairie,Towell,Little Prairie 1,37.95675138717223,-91.64941757,NA
+111,Indian_Hills,Indian Hills,NA,Indian Hills 1,38.10486453410157,-91.45736103,NA
+111-C2-0042,Indian_Hills,NA,NA,Indian_Hills Cove 2,38.10167433102795,-91.45444766,NA
+111-C5-0095,Indian_Hills,NA,NA,Indian_Hills Cove 5,38.09350349739409,-91.45705743,NA
+111-C8-0182,Indian_Hills,NA,NA,Indian_Hills Cove 8,38.08249110774808,-91.44741781,NA
+111-DA-01-00,Indian_Hills,NA,NA,Indian_Hills Dam 1,38.10676914285714,-91.45852114,NA
+111-DA-02-00,Indian_Hills,NA,NA,Indian_Hills Dam 2,38.10710944444445,-91.45781944,NA
+111-DA-03-00,Indian_Hills,NA,NA,Indian_Hills Dam 3,38.10736063,-91.45710938,NA
+111-DA-04-00,Indian_Hills,NA,NA,Indian_Hills Dam 4,38.10763148148149,-91.45633259,NA
+111-DA-05-00,Indian_Hills,NA,NA,Indian_Hills Dam 5,38.10812888888889,-91.45456278,NA
+111-DA-06-00,Indian_Hills,NA,NA,Indian_Hills Dam 6,38.106638181818184,-91.45396977,NA
+111-DA-07-00,Indian_Hills,NA,NA,Indian_Hills Dam 7,38.106408139534885,-91.45453326,NA
+111-DA-08-00,Indian_Hills,NA,NA,Indian_Hills Dam 8,38.10626555555555,-91.45498578,NA
+111-DA-09-00,Indian_Hills,NA,NA,Indian_Hills Dam 9,38.10610109090909,-91.45562036,NA
+111-DA-10-00,Indian_Hills,NA,NA,Indian_Hills Dam 10,38.106059433962265,-91.4558866,NA
+111-DA-11-00,Indian_Hills,NA,NA,Indian_Hills Dam 11,38.10606576923077,-91.45623154,NA
+111-DA-12-00,Indian_Hills,NA,NA,Indian_Hills Dam 12,38.10596240740741,-91.4568437,NA
+111-DA-13-00,Indian_Hills,NA,NA,Indian_Hills Dam 13,38.10589,-91.45724255,NA
+111-DA-14-00,Indian_Hills,NA,NA,Indian_Hills Dam 14,38.10536159,-91.45822971,NA
+112,Shayne,Shayne,NA,Shayne 1,37.898213708029346,-90.64284349,NA
+113,Pape_Concordia,Pape (Concordia),NA,Pape (Concordia) 1,38.934661350534576,-93.58243926,NA
+114,Henry_Sever,Henry Sever,NA,Henry Sever 1,40.00648696612723,-91.94467475,NA
+115,Hunnewell,Hunnewell,NA,Hunnewell 1,39.70830567043918,-91.86237338,NA
 116,Jacomo,Jacomo,NA,Jacomo 1,38.99,-94.31,NA
 116,Jacomo,Jacomo,NA,Jacomo 2,38.97,-94.33,NA
 116,Jacomo,Jacomo,NA,Jacomo 3,38.95,-94.33,NA
 116,Jacomo,Jacomo,NA,Jacomo LIG,38.99,-94.31,NA
 117,Little_Dixie,Little Dixie,NA,Little Dixie 1,38.91,-92.12,NA
 117,Little_Dixie,Little Dixie,NA,Little Dixie 2,38.92,-92.12,NA
-118,Raintree,Raintree,NA,Raintree 1,38.83511559717222,-94.38237992615616,NA
-119,Sterling_Price,Sterling Price,NA,Sterling Price 1,39.40072612615741,-92.84289626494564,NA
-120,Winnebago,Winnebago,NA,Winnebago 1,38.81342837262624,-94.3532083810949,NA
-121,Higginsville,Higginsville,NA,Higginsville 1,39.06231945714977,-93.66970827291162,NA
+118,Raintree,Raintree,NA,Raintree 1,38.83511559717222,-94.38237993,NA
+119,Sterling_Price,Sterling Price,NA,Sterling Price 1,39.40072612615741,-92.84289626,NA
+120,Winnebago,Winnebago,NA,Winnebago 1,38.81342837262624,-94.35320838,NA
+121,Higginsville,Higginsville,NA,Higginsville 1,39.06231945714977,-93.66970827,NA
 122,Lewistown,Lewistown,NA,Lewistown 1,40.1,-91.82,NA
-123,Shelbyville,Shelbyville,NA,Shelbyville 1,39.807081419345856,-92.05115829034756,NA
+123,Shelbyville,Shelbyville,NA,Shelbyville 1,39.807081419345856,-92.05115829,NA
 124,Wyconda,Wyconda,NA,Wyconda 1,40.4,-91.91,NA
 127,Clarence_East,Clarence (East),NA,Clarence (East) 1,39.75,-92.23,NA
 128,Clarence_West,Clarence (West),NA,Clarence (West) 1,39.75,-92.24,NA
@@ -295,20 +295,20 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 132,Lancaster_City_South,Lancaster City (South),NA,Lancaster City (South) 1,40.52,-92.55,NA
 133,Forest,Forest,NA,Forest 1,40.17,-92.65,NA
 133,Forest,Forest,NA,Forest 2,40.17,-92.64,NA
-134,Jamesport_City,Jamesport City,NA,Jamesport City 1,39.9906655290186,-93.81062227485462,NA
+134,Jamesport_City,Jamesport City,NA,Jamesport City 1,39.99066553,-93.81062227,NA
 135,Trenton_Upper_East,Trenton (Upper East),NA,Trenton (Upper East) 1,40.08,-93.58,NA
 137,Green_City,Green City,NA,Green City 1,40.26,-92.92,NA
-139,Marceline_North,Marceline (North),NA,Marceline (North) 1,39.72283450710069,-92.91965813182615,NA
-140,Cameron_Century,Cameron 1 (Century),Cameron1Century,Cameron 1 (Century) 1,39.76245187210934,-94.2613977249828,NA
+139,Marceline_North,Marceline (North),NA,Marceline (North) 1,39.72283450710069,-92.91965813,NA
+140,Cameron_Century,Cameron 1 (Century),Cameron1Century,Cameron 1 (Century) 1,39.76245187210934,-94.26139772,NA
 141,Showme,Showme,NA,Showme 1,40.44,-92.22,NA
-143,Bethany_South,Bethany (South),NA,Bethany (South) 1,40.28703418699187,-94.0255706097561,NA
+143,Bethany_South,Bethany (South),NA,Bethany (South) 1,40.28703418699187,-94.02557061,NA
 144,Pinewoods,Pinewoods,NA,Pinewoods 1,36.92,-90.77,NA
 145,Mark_Twain,Mark Twain,NA,Mark Twain 1,39.52,-91.65,NA
 145,Mark_Twain,Mark Twain,NA,Mark Twain 2,39.54,-91.7,NA
 145,Mark_Twain,Mark Twain,NA,Mark Twain 3,39.5,-91.8,NA
 145,Mark_Twain,Mark Twain,NA,Mark Twain 4,39.48,-91.79,NA
 145,Mark_Twain,Mark Twain,NA,Mark Twain 5,39.51,-91.77,NA
-146,Crane,Crane,NA,Crane 1,37.41834639344262,-90.6181418852459,NA
+146,Crane,Crane,NA,Crane 1,37.41834639344262,-90.61814189,NA
 148,Blue_Springs,Blue Springs,NA,Blue Springs (unknown),39.01,-94.31,NA
 148,Blue_Springs,Blue Springs,NA,Blue Springs 1,39.01,-94.34,NA
 149,Lake_of_the_Ozarks,Lake of the Ozarks,NA,Lake of the Ozarks 1,38.21,-92.63,NA
@@ -403,8 +403,8 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 149-GG-03-30,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
 149-GG-03-40,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
 149-GG-03-50,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
-149-GG-20-04,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,38.10113076923077,-92.65719907692308,NA
-149-NA-32-10,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,38.01908145833333,-92.82750208333331,NA
+149-GG-20-04,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,38.10113076923077,-92.65719908,NA
+149-NA-32-10,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,38.01908145833333,-92.82750208,NA
 149-NA-33-10,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
 149-NA-33-20,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
 149-NA-33-30,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
@@ -415,7 +415,7 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 149-NA-40-30,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
 149-NA-40-40,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
 149-NA-40-50,Lake_of_the_Ozarks,Lake of the Ozarks,NA,NA,NA,NA,NA
-150,Blind_Pony,Blind Pony,NA,Blind Pony 1,39.03386298319086,-93.36716499431174,NA
+150,Blind_Pony,Blind Pony,NA,Blind Pony 1,39.03386298319086,-93.36716499,NA
 152,Lafayette,Lafayette,NA,Lafayette 1,37.89,-90.59,NA
 155,Weatherby,Weatherby,NA,Weatherby 1,39.23,-94.7,NA
 155,Weatherby,Weatherby,NA,Weatherby N End,39.25,-94.69,NA
@@ -425,35 +425,35 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 159,Harmony_Mission_CA,Harmony Mission C.A.,NA,Harmony Mission C.A. 1,38.07,-94.43,NA
 160,Four_Rivers,Four Rivers,NA,Fours Rivers 1,38.02,-94.34,NA
 161,Bushwacker,Bushwacker,NA,Bushwacker 1,37.67,-94.41,NA
-162,Maple_Leaf,Maple Leaf,NA,Maple Leaf 1,38.98996888111888,-93.78043629370627,NA
-163,King,King,NA,King 1,40.02110798877591,-94.43711463621229,NA
-164,Elmwood,Elmwood,NA,Elmwood 1,40.225112338531034,-93.11525285323188,NA
-165,Jackrabbit,Jackrabbit,NA,Jackrabbit 1,38.888991429009934,-94.32393817925976,NA
+162,Maple_Leaf,Maple Leaf,NA,Maple Leaf 1,38.98996888111888,-93.78043629,NA
+163,King,King,NA,King 1,40.02110798877591,-94.43711464,NA
+164,Elmwood,Elmwood,NA,Elmwood 1,40.225112338531034,-93.11525285,NA
+165,Jackrabbit,Jackrabbit,NA,Jackrabbit 1,38.888991429009934,-94.32393818,NA
 166,Catclaw,Catclaw,NA,Catclaw 1,38.89,-94.32,NA
-167,Cottontail,Cottontail,NA,Cottontail 1,38.88517799130775,-94.3176928046718,NA
-168,Nell,Nell,NA,Nell 1,38.87986604170004,-94.32299526286953,NA
-169,Gopher,Gopher,NA,Gopher 1,38.87413489450148,-94.31502738228924,NA
-170,Coot,Coot,NA,Coot 1,38.86996167842868,-94.33970148939626,NA
+167,Cottontail,Cottontail,NA,Cottontail 1,38.88517799130775,-94.3176928,NA
+168,Nell,Nell,NA,Nell 1,38.87986604170004,-94.32299526,NA
+169,Gopher,Gopher,NA,Gopher 1,38.87413489450148,-94.31502738,NA
+170,Coot,Coot,NA,Coot 1,38.86996167842868,-94.33970149,NA
 178,Daniel_Boone,Daniel Boone,NA,Daniel Boone 1,39.79,-92.26,NA
-179,Nodaway_County,Nodaway County,NA,Nodaway County 1,40.42709648858388,-94.85753326482632,NA
-180,Bilby_Ranch,Bilby Ranch,NA,Bilby Ranch 1,40.34950613043149,-95.1331617995722,NA
-181,Mozingo,Mozingo,NA,Mozingo 1,40.350219111282975,-94.7774324015584,NA
-182,Fox_Valley,Fox Valley,NA,Fox Valley 1,40.497856977689786,-91.7668181438572,NA
-183,Hazel_Hill,Hazel Hill,NA,Hazel Hill 1,38.8457837019902,-93.77747669921092,NA
-184,Manito,Manito,NA,Manito 1,38.591094543217544,-92.8064497036395,NA
-185,Harrison_County,Harrison County,NA,Harrison County 1,40.39734199185816,-94.08433867160096,NA
-186,Carl_DiSalvo,Carl DiSalvo,Bismark,Carl DiSalvo 1,37.73086367751094,-90.63406641209689,NA
+179,Nodaway_County,Nodaway County,NA,Nodaway County 1,40.42709648858388,-94.85753326,NA
+180,Bilby_Ranch,Bilby Ranch,NA,Bilby Ranch 1,40.34950613043149,-95.1331618,NA
+181,Mozingo,Mozingo,NA,Mozingo 1,40.350219111282975,-94.7774324,NA
+182,Fox_Valley,Fox Valley,NA,Fox Valley 1,40.497856977689786,-91.76681814,NA
+183,Hazel_Hill,Hazel Hill,NA,Hazel Hill 1,38.8457837,-93.7774767,NA
+184,Manito,Manito,NA,Manito 1,38.591094543217544,-92.8064497,NA
+185,Harrison_County,Harrison County,NA,Harrison County 1,40.39734199185816,-94.08433867,NA
+186,Carl_DiSalvo,Carl DiSalvo,Bismark,Carl DiSalvo 1,37.73086367751094,-90.63406641,NA
 187,Belcher_Branch,Belcher Branch,NA,Belcher Branch 1,39.58,-94.73,NA
 188,Big_Oak,Big Oak,NA,Big Oak 1,36.64,-89.29,NA
 189,Butler_City,Butler City,NA,Butler City 1,38.28,-94.43,NA
 190,Charity,Charity,NA,Charity 1,40.48,-95.58,NA
 191,Indian_Creek,Indian Creek,NA,Indian Creek 1,39.9,-93.7,NA
-192,Jo_Shelby,Jo Shelby,NA,Jo Shelby 1,39.716944361123325,-93.32241168894492,NA
+192,Jo_Shelby,Jo Shelby,NA,Jo Shelby 1,39.716944361123325,-93.32241169,NA
 193,Busch_37,Busch 37,NA,Busch 37 1,38.71,-90.79,NA
 194,Lawson_City,Lawson City,NA,Lawson City 1,39.46,-94.2,NA
-195,Limpp,Limpp,NA,Limpp 1,40.06299512811226,-94.53837082340245,NA
+195,Limpp,Limpp,NA,Limpp 1,40.06299512811226,-94.53837082,NA
 196,Lone_Jack,Lone Jack,NA,Lone Jack 1,38.89,-94.19,NA
-197,Prairie,Prairie,NA,Prairie 1,38.70939314925791,-90.69063294519395,NA
+197,Prairie,Prairie,NA,Prairie 1,38.70939314925791,-90.69063295,NA
 198,Ray_County,Ray County,NA,Ray County 1,39.31,-93.99,NA
 199,Rothwell,Rothwell,NA,Rothwell 1,39.42,-92.46,NA
 200,Savannah_City,Savannah City,NA,Savannah City 1,39.95,-94.86,NA
@@ -461,44 +461,44 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 202,Whiteside,Whiteside,NA,Whiteside 1,39.17,-91.01,NA
 203,Willow_Brook,Willow Brook,NA,Willow Brook 1,39.87,-94.38,NA
 204,Worth_County,Worth County,NA,Worth County 1,40.4,-94.53,NA
-211,Cameron_Sunrise,Cameron 2 (Sunrise),Cameron2Sunrise,Cameron 2 (Sunrise) 1,39.76290278713659,-94.25829500823984,NA
+211,Cameron_Sunrise,Cameron 2 (Sunrise),Cameron2Sunrise,Cameron 2 (Sunrise) 1,39.76290278713659,-94.25829501,NA
 212,Grindstone,Grindstone,NA,Grindstone 1,39.77,-94.3,NA
-213,Cameron_Eagle,Cameron 3 (Eagle),Cameron_3Eagle,Cameron 3 (Eagle) 1,39.77379008311739,-94.27196939609394,NA
+213,Cameron_Eagle,Cameron 3 (Eagle),Cameron_3Eagle,Cameron 3 (Eagle) 1,39.77379008311739,-94.2719694,NA
 214,Bennitt,Bennitt,NA,Bennitt 1,39.24,-92.46,NA
 215,White,White,NA,White 1,39.33,-91.86,NA
-216,Big_Whetstone,Big Whetstone,NA,Big Whetstone 1,38.965606538461536,-91.73466455128204,NA
+216,Big_Whetstone,Big Whetstone,NA,Big Whetstone 1,38.965606538461536,-91.73466455,NA
 217,Windy_Whetstone,Windy Whetstone,NA,Windy Whetstone 1,38.96,-91.73,NA
-218,Bucklin_City,Bucklin City,NA,Bucklin City 1,39.76741178581524,-92.88184160653616,NA
-219,Dairy_1,Dairy 1,NA,Dairy 1 1,38.994088760741946,-92.48899782855176,NA
+218,Bucklin_City,Bucklin City,NA,Bucklin City 1,39.76741178581524,-92.88184161,NA
+219,Dairy_1,Dairy 1,NA,Dairy 1 1,38.994088760741946,-92.48899783,NA
 220,Dairy_3,Dairy 3,NA,Dairy 3 1,38.99,-92.47,NA
 221,Edina_Section_7,Edina (Section 7),NA,Edina (Section 7) 1,40.18,-92.16,NA
 222,Ewing,Ewing,NA,Ewing 1,40.02,-91.72,NA
 223,Greenly_Farms,Greenly Farms,NA,Greenly Farms 1,40.02,-92.19,NA
-224,Happy_Holler,Happy Holler,NA,Happy Holler 1,40.02571999500975,-94.73334080194934,NA
+224,Happy_Holler,Happy Holler,NA,Happy Holler 1,40.02571999500975,-94.7333408,NA
 225,Higbee_Railroad,Higbee Railroad,NA,Higbee Railroad 1,39.31,-92.52,NA
 226,Higbee_City,Higbee City,NA,Higbee City 1,39.31,-92.5,NA
 227,Horseshoe,Horseshoe,NA,Horseshoe 1,38.94,-91.72,NA
-228,Jamesport_Community,Jamesport Community,NA,Jamesport Community 1,39.99829594294316,-93.8427158305646,NA
+228,Jamesport_Community,Jamesport Community,NA,Jamesport Community 1,39.99829594294316,-93.84271583,NA
 229,King_City_West,King City (West),NA,King City (West) 1,40.06,-94.51,NA
 230,King_City_East,King City (East),NA,King City (East) 1,40.06,-94.51,NA
 231,LaPlata_West,LaPlata (West),NA,LaPlata (West) 1,40.02,-92.47,NA
-232,Lick_Creek,Lick Creek,NA,Lick Creek 1,39.151123047787536,-92.3852298454514,NA
+232,Lick_Creek,Lick Creek,NA,Lick Creek 1,39.151123047787536,-92.38522985,NA
 233,Linneus,Linneus,NA,Linneus 1,39.89,-93.2,NA
 234,Malta_Bend,Malta Bend,NA,Malta Bend 1,39.18,-93.39,NA
 235,Redman,Redman,NA,Redman 1,39.87,-94.37,NA
-236,McCredie,McCredie,NA,McCredie 1,38.94724981981982,-91.90898648648648,NA
-237,Milan_North,Milan (North),NA,Milan (North) 1,40.20017981811178,-93.10477960139852,NA
-238,Monroe_Route_J,Monroe (Route J),NA,Monroe (Route J) 1,39.605767920427915,-91.66608870903728,NA
+236,McCredie,McCredie,NA,McCredie 1,38.94724981981982,-91.90898649,NA
+237,Milan_North,Milan (North),NA,Milan (North) 1,40.20017981811178,-93.1047796,NA
+238,Monroe_Route_J,Monroe (Route J),NA,Monroe (Route J) 1,39.605767920427915,-91.66608871,NA
 239,LaBelle_City_West,LaBelle City (West),NA,LaBelle City (West) 1,40.09,-91.91,NA
 240,North_Whetstone,North Whetstone,NA,North Whetstone 1,38.98,-91.73,NA
-241,Phillips,Phillips,NA,Phillips 1,38.896172764086295,-92.2939714581196,NA
+241,Phillips,Phillips,NA,Phillips 1,38.896172764086295,-92.29397146,NA
 242,Pike,Pike,NA,Pike 1,39.95,-93.67,NA
 243,Pin_Oak,Pin Oak,NA,Pin Oak 1,37.44,-94.57,NA
 244,Pine_Ridge,Pine Ridge,NA,Pine Ridge 1,39.4,-92.8,NA
 245,Poosey_17,Poosey 17,NA,Poosey 17 1,39.92,-93.72,NA
 246,Poosey_18,Poosey 18,NA,Poosey 18 1,39.93,-93.71,NA
 247,Poosey_20,Poosey 20,NA,Poosey 20 1,39.93,-93.7,NA
-248,Johnson,Johnson,NA,Johnson 1,38.778873745704466,-92.6013804467354,NA
+248,Johnson,Johnson,NA,Johnson 1,38.778873745704466,-92.60138045,NA
 249,Reform_1,Reform 1,NA,Reform 1 1,38.76,-91.8,NA
 250,Santa_Fe,Santa Fe,NA,Santa Fe 1,40.04,-92.48,NA
 251,Sears_Community,Sears Community,NA,Sears Community 1,40.26,-93.08,NA
@@ -508,24 +508,24 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 255,Watershed,Watershed,NA,Watershed 1,40.3,-91.93,NA
 256,Wellsville_City,Wellsville City,NA,Wellsville 1,39.03,-91.58,NA
 257,Whitesell,Whitesell,NA,Whitesell 1,39.07,-91.63,NA
-258,Winegar,Winegar,NA,Winegar 1,38.47764913793103,-92.39735646551723,NA
+258,Winegar,Winegar,NA,Winegar 1,38.47764913793103,-92.39735647,NA
 260,Busch_16,Busch 16,NA,Busch 16 1,38.7,-90.76,NA
 261,Adrian_City,Adrian City,NA,Adrian City 1,38.39,-94.34,NA
 263,Brays,Brays,NA,Brays 1,37.89,-91.78,NA
 264,Drexel_City,Drexel City,NA,Drexel City 1,38.47,-94.61,NA
-265,Drexel_Reservoir,Drexel Reservoir,NA,Drexel Reservoir 1,38.463536172289466,-94.60768449340144,NA
+265,Drexel_Reservoir,Drexel Reservoir,NA,Drexel Reservoir 1,38.463536172289466,-94.60768449,NA
 266,Garden_City,Garden City,NA,Garden City 1,38.52,-94.17,NA
 267,Niangua,Niangua,NA,Niangua 1,37.94,-92.85,NA
 268,Nims,Nims,NA,Nims 1,37.64,-90.33,NA
-269,Shepherd_Mountain,Shepherd Mountain,NA,Shepherd Mountain 1,37.59180272835785,-90.6577780202485,NA
-270,Vandalia,Vandalia,NA,Vandalia 1,39.377618561122176,-91.40859696126188,NA
+269,Shepherd_Mountain,Shepherd Mountain,NA,Shepherd Mountain 1,37.59180272835785,-90.65777802,NA
+270,Vandalia,Vandalia,NA,Vandalia 1,39.377618561122176,-91.40859696,NA
 271,Palmer,Palmer,NA,Palmer 1,37.82,-90.92,NA
-272,Perry,Perry,NA,Perry 1,39.42380314430136,-91.67441065256774,NA
+272,Perry,Perry,NA,Perry 1,39.42380314430136,-91.67441065,NA
 273,Odessa_Upper,Odessa (Upper),NA,Odessa (Upper) 1,38.97,-93.98,NA
 274,Alpine,Alpine,NA,Alpine 1,38.75,-91.08,NA
 274,Alpine,Alpine,NA,Alpine 2,38.77,-91.07,NA
 275,Ascencio,Ascencio,NA,Ascencio 1,39.34,-94.86,NA
-276,Ashland,Ashland,NA,Ashland 1,38.75550139332877,-92.20631259796129,NA
+276,Ashland,Ashland,NA,Ashland 1,38.75550139332877,-92.2063126,NA
 277,Aspen,Aspen,NA,Aspen 1,38.76,-91.04,NA
 277,Aspen,Aspen,NA,Aspen LH,38.76,-91.04,NA
 278,Aspenetter,Aspenetter,NA,Aspenetter 1,38.76,-91.03,NA
@@ -560,7 +560,7 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 305,Scheffborg,Scheffborg,NA,Scheffborg 1,38.79,-91.06,NA
 306,Simpson,Simpson,NA,Simpson 1,38.56,-90.46,NA
 307,St_Gallen,St. Gallen,NA,St. Gallen 1,38.75,-91.03,NA
-308,Stephens,Stephens,NA,Stephens 1,38.95068522978462,-92.30708699314988,NA
+308,Stephens,Stephens,NA,Stephens 1,38.95068522978462,-92.30708699,NA
 308-01,Stephens,Stephens,NA,Student Site,NA,NA,NA
 309,Sugar_Hollow,Sugar Hollow,NA,Sugar Hollow 1,38.67,-90.98,NA
 310,Treeline,Treeline,NA,Treeline 1,38.19,-92.74,NA
@@ -571,7 +571,7 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 314,Waterworks,Waterworks,NA,Waterworks 1,39.42,-92.46,NA
 315,Whippoorwill,Whippoorwill,NA,Whippoorwill 1,38.77,-91.03,NA
 316,Wood,Wood,NA,Wood 1,39,-92.22,NA
-317,Buffalo_Bill,Buffalo Bill,NA,Buffalo Bill 1,39.81562206167988,-94.38362407650293,NA
+317,Buffalo_Bill,Buffalo Bill,NA,Buffalo Bill 1,39.81562206167988,-94.38362408,NA
 320,Quarry_Heights,Quarry Heights,NA,Quarry Heights 1,38.94,-92.34,NA
 322,Whitecliff,Whitecliff,NA,Whitecliff 1,38.56,-90.37,NA
 323,Wyandote,Wyandote,NA,Wyandotte 1,39.17,-94.78,NA
@@ -590,7 +590,7 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 408,Big_Eleven,Big Eleven,NA,Big Eleven 1,39.12,-94.64,NA
 409,Carondelet_Boathouse,Carondelet Boathouse,NA,Carondelet Boathouse 1,38.56,-90.27,NA
 410,Caswell,Caswell,NA,Caswell 1,38.71,-94.09,NA
-411,Cedar,Cedar,NA,Cedar 1,38.89548799494311,-92.35308417231488,NA
+411,Cedar,Cedar,NA,Cedar 1,38.89548799494311,-92.35308417,NA
 412,Barry_Harbor,Barry Harbor,NA,Barry Harbor 1,39.24,-94.61,NA
 413,Jaycee,Jaycee,NA,Jaycee 1,38.56,-92.27,NA
 414,Crowder,Crowder,NA,Crowder 1,40.1,-93.66,NA
@@ -599,10 +599,10 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 417,Middle_Fork_Water,Middle Fork Water,NA,Middle Fork Water 1,40.29,-94.43,NA
 418,Bass,Bass,NA,Bass 1,38.84,-91.77,NA
 419,Butterfly,Butterfly,NA,Butterfly 1,37.79,-90.93,NA
-420,Daizy_Valley,Daizy Valley,NA,Daizy Valley 1,38.47442768602583,-91.39038790660253,NA
+420,Daizy_Valley,Daizy Valley,NA,Daizy Valley 1,38.47442768602583,-91.39038791,NA
 421,Leisure_Callaway_Co,Leisure (Callaway Co),NA,Leisure (Callaway Co) 1,38.9,-91.82,NA
 422,Lochaweeno,Lochaweeno,NA,Lochaweeno 1,38.83,-91.76,NA
-423,Port_Hudson,Port Hudson,NA,Port Hudson 1,38.47343010623239,-91.26764941188536,NA
+423,Port_Hudson,Port Hudson,NA,Port Hudson 1,38.47343010623239,-91.26764941,NA
 424,Iron_Mountain,Iron Mountain,NA,Iron Mountain 1,37.69,-90.62,NA
 425,Kellogg,Kellogg,NA,Kellogg 1,37.19,-94.29,NA
 426,Potosi,Potosi,NA,Potosi 1,37.88,-90.68,NA
@@ -611,14 +611,14 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 429,Wahoo,Wahoo,NA,Wahoo 1,38,-90.55,NA
 430,Bluestem,Bluestem,NA,Bluestem 1,38.87,-94.32,NA
 431,Bodarc,Bodarc,NA,Bodarc 1,38.87,-94.32,NA
-432,Harrisonville_City,Harrisonville City,NA,Harrisonville City 1,38.66446086582693,-94.33905546255907,NA
-433,Luna,Luna,NA,Luna 1,38.66198867339638,-94.34587841893766,NA
+432,Harrisonville_City,Harrisonville City,NA,Harrisonville City 1,38.66446086582693,-94.33905546,NA
+433,Luna,Luna,NA,Luna 1,38.66198867339638,-94.34587842,NA
 434,Sever_Lake_North,Sever Lake North,NA,Sever Lake North 1,40.26,-92.15,NA
 435,Hurdland_Severs,Hurdland Severs,NA,Hurdland Severs 1,40.11,-92.29,NA
 436,Finger_Lake,Finger Lake,NA,Finger Lake 1,39.09,-92.32,NA
 437,Thunderbird_Lower,Thunderbird (Lower),NA,Thunderbird (Lower) 1,38.81,-91.81,NA
-438,Bethel,Bethel,NA,Bethel 1,38.90141603457868,-92.3422671269329,NA
-438,Bethel,Bethel,NA,Bethel R1,38.90141603457868,-92.3422671269329,NA
+438,Bethel,Bethel,NA,Bethel 1,38.90141603457868,-92.34226713,NA
+438,Bethel,Bethel,NA,Bethel R1,38.90141603457868,-92.34226713,NA
 438-01,Bethel,Bethel,NA,Bethel R1,38.9,-92.34,NA
 438-01,Bethel,Bethel,NA,Lab,NA,NA,NA
 438-01,Bethel,Bethel,NA,Student Site,NA,NA,NA
@@ -626,23 +626,23 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 439-01,Cheney,Cheney,NA,Cheney R1,37.74,-97.78,NA
 439-01,Cheney,Cheney,NA,Lab,NA,NA,NA
 439-01,Cheney,Cheney,NA,Student Site,NA,NA,NA
-440,Crow_Pond,Crow Pond,NA,Crow Pond 1,38.89371479356206,-91.73742336214856,NA
+440,Crow_Pond,Crow Pond,NA,Crow Pond 1,38.89371479356206,-91.73742336,NA
 441,Montauk,Montauk,NA,Montauk 1,37.46,-91.68,NA
 442,Callaway_Fork,Callaway Fork,NA,Callaway Fork 1,38.68,-90.85,NA
 442-01,Callaway_Fork,Callaway Fork,NA,Callaway Fork 2,38.69,-90.87,NA
 443,Spanish,Spanish,NA,Spanish 1,38.8,-90.2,NA
 444,Cole,Cole,NA,Cole 1,38.02,-90.57,NA
 445,Rock_Lake_Village,Rock Lake Village,NA,Rock Lake Village 1,38.89,-94.07,NA
-446,Sakatah,Sakatah,NA,Mid Lake,44.22457019238308,-93.55708832526604,NA
-446,Sakatah,Sakatah,NA,Sakatah Mid,44.22457019238308,-93.55708832526604,NA
-446,Sakatah,Sakatah,NA,NA,44.22457019238308,-93.55708832526604,NA
+446,Sakatah,Sakatah,NA,Mid Lake,44.22457019238308,-93.55708833,NA
+446,Sakatah,Sakatah,NA,Sakatah Mid,44.22457019238308,-93.55708833,NA
+446,Sakatah,Sakatah,NA,NA,44.22457019238308,-93.55708833,NA
 446-01,Sakatah,Sakatah,NA,Lab,NA,NA,NA
 446-01,Sakatah,Sakatah,NA,Sakatah R1,44.22,-93.56,NA
 446-01,Sakatah,Sakatah,NA,Student Site,NA,NA,NA
-446-01-00,Sakatah,Sakatah,NA,NA,44.22442625985434,-93.55670113006484,NA
+446-01-00,Sakatah,Sakatah,NA,Sakatah Shoreline,44.22442625985434,-93.55670113,NA
 446-02,Sakatah,Sakatah,NA,Bay,NA,NA,NA
 446-02,Sakatah,Sakatah,NA,Sakatah Bay,44.22,-93.56,NA
-446-02-00,Sakatah,Sakatah,NA,NA,44.22161680555555,-93.56584368055556,NA
+446-02-00,Sakatah,Sakatah,NA,Sakatah Bay 2,44.22161680555555,-93.56584368,NA
 447,Black_Hawk,Black Hawk,NA,Black Hawk R1,42.3,-95.05,NA
 447,Black_Hawk,Black Hawk,NA,NA,42.3036,-95.0393,NA
 447-01,Black_Hawk,Black Hawk,NA,Lab,NA,NA,NA
@@ -650,8 +650,8 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 450,Marion,Marion,NA,Marion 1,38.37,-90.76,NA
 451,Serene,Serene,NA,Serene 1,38.41,-90.78,NA
 453,Lafayette_Park,Lafayette Park,NA,Lafayette Park 1,38.62,-90.22,NA
-454,Cedar_Hill_Lake_1,Cedar Hill (Lake 1),NA,Cedar Hill (Lake 1) 1,38.33377393852189,-90.65446725191428,NA
-455,West_Arrowhead,West Arrowhead,NA,West Arrowhead 1,39.476677545326154,-94.31687956301931,NA
+454,Cedar_Hill_Lake_1,Cedar Hill (Lake 1),NA,Cedar Hill (Lake 1) 1,38.33377393852189,-90.65446725,NA
+455,West_Arrowhead,West Arrowhead,NA,West Arrowhead 1,39.476677545326154,-94.31687956,NA
 456,Timberland,Timberland,NA,Timberland 1,37.92,-93.97,NA
 457,OFallon_Park,OFallon Park,NA,OFallon Park 1,38.68,-90.22,NA
 458,Crystal_Morgan,Crystal (Morgan),NA,Crystal (Morgan) 1,38.39,-92.95,NA
@@ -660,7 +660,7 @@ MULakeNumber,waterBody,AlternativeNames1,AlternativeNames2,samplingSite,Latitude
 461,See_Tal,See Tal,NA,See Tal 1,38.69,-91.44,NA
 462,Tilles_Park,Tilles Park,NA,Tilles Park 1,38.62,-90.36,NA
 469,Lakeview_KS,Lakeview (KS),NA,Lakeview (KS) 1,39.01,-95.3,NA
-470,WestArrowhead_Howell,NA,NA,WestArrowhead_Howell 1,36.65681998466074,-91.888745399189,NA
+470,WestArrowhead_Howell,NA,NA,WestArrowhead_Howell 1,36.65681998466074,-91.8887454,NA
 ACT,Acton,NA,NA,NA,39.56965,-84.746,ThinIce Gradient
 BAR,Barco,NA,NA,NA,29.67598,-82.01732,ThinIce Gradient
 CHA,Chautauqua,NA,NA,NA,42.2117746,-79.4604498,ThinIce Gradient
